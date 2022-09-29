@@ -1,4 +1,4 @@
-package DownladFileInspector;
+package download_inspector;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -7,13 +7,13 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
-public class DownloadFileInspector {
+public class DownloadDailyInspector {
 
     private final String file_dir;
     private int errorCount;
     private ArrayList<String> errorFileList;
 
-    public DownloadFileInspector(String file_dir) {
+    public DownloadDailyInspector(String file_dir) {
         this.file_dir = file_dir;
         this.errorCount = 0;
         this.errorFileList = new ArrayList<String>();
