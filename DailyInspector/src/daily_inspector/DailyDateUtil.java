@@ -6,7 +6,7 @@ import java.util.Locale;
 
 public class DailyDateUtil {
 
-    public static String dateNow(){
+    public static String currentDate(){
         SimpleDateFormat dateFormat = new SimpleDateFormat("yyyyMMdd", Locale.KOREA);
         return dateFormat.format(new Date());
     }
