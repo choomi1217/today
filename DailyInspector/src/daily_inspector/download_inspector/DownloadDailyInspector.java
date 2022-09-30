@@ -1,4 +1,4 @@
-package download_inspector;
+package daily_inspector.download_inspector;
 
 import java.io.BufferedReader;
 import java.io.File;
