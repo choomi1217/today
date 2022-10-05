@@ -10,7 +10,7 @@ import java.security.Key;
 import java.security.KeyManagementException;
 import java.security.NoSuchAlgorithmException;
 
-public class HttpsRequestor {
+public class HttpsRequestor implements Requestor {
     private final URL url;
 
     public HttpsRequestor(URL url) {
