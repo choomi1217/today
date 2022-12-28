@@ -1,0 +1,18 @@
+44270|4595406|00|쇠재길|Soejae-gil|충청남도|당진시|2|||0|자연마을명칭인 쇠재를 활용하여 도로명 부여|9||Chungcheongnam-do|Dangjin-si||1|102|20120101|
+44270|4595406|01|쇠재길|Soejae-gil|충청남도|당진시|0|330|대호지면|0|자연마을명칭인 쇠재를 활용하여 도로명 부여|9||Chungcheongnam-do|Dangjin-si|Daehoji-myeon|1|102|20120101|
+46820|4861827|00|연초도길|Yeonchodo-gil|전라남도|해남군|2|||0|2022년 도로명주소 부여에 따를 도로명 부여||신규|Jeollanam-do|Haenam-gun||1|44|20220812|
+46820|4861827|01|연초도길|Yeonchodo-gil|전라남도|해남군|0|350|북평면|0|2022년 도로명주소 부여에 따를 도로명 부여||신규|Jeollanam-do|Haenam-gun|Bukpyeong-myeon|1|44|20220812|
+48310|4811171|00|덕곡3길|Deokgok 3-gil|경상남도|거제시|2|||0|법정리명칭(덕곡)을 이용하여 부여|9||Gyeongsangnam-do|Geoje-si||1|42|20220927|
+48310|4811171|01|덕곡3길|Deokgok 3-gil|경상남도|거제시|0|380|하청면|0|법정리명칭(덕곡)을 이용하여 부여|9||Gyeongsangnam-do|Geoje-si|Hacheong-myeon|1|42|20220927|
+48310|4811321|00|석포2길|Seokpo 2-gil|경상남도|거제시|2|||0|법정리명칭(석포)을 이용하여 부여|9||Gyeongsangnam-do|Geoje-si||1|94-8|20090813|
+48310|4811321|01|석포2길|Seokpo 2-gil|경상남도|거제시|0|380|하청면|0|법정리명칭(석포)을 이용하여 부여|9||Gyeongsangnam-do|Geoje-si|Hacheong-myeon|1|94-8|20090813|
+48310|4811374|00|신계길|Singye-gil|경상남도|거제시|2|||0|오량천 건너 남향으로 따뜻한 새 마을이 형성되어 붙여진 자연마을 이름으로 부여|9||Gyeongsangnam-do|Geoje-si||1|58|20220927|
+48310|4811374|01|신계길|Singye-gil|경상남도|거제시|0|360|사등면|0|오량천 건너 남향으로 따뜻한 새 마을이 형성되어 붙여진 자연마을 이름으로 부여|9||Gyeongsangnam-do|Geoje-si|Sadeung-myeon|1|58|20220927|
+48310|4811383|00|실전2길|Siljeon 2-gil|경상남도|거제시|2|||0|법정리명칭(실전)을 이용하여 부여|9||Gyeongsangnam-do|Geoje-si||1|92|20220927|
+48310|4811383|01|실전2길|Siljeon 2-gil|경상남도|거제시|0|380|하청면|0|법정리명칭(실전)을 이용하여 부여|9||Gyeongsangnam-do|Geoje-si|Hacheong-myeon|1|92|20220927|
+48310|4811424|00|어온4길|Eoon 4-gil|경상남도|거제시|2|||0|법정리명칭(어온)을 이용하여 부여|9||Gyeongsangnam-do|Geoje-si||1|60|20220927|
+48310|4811424|01|어온4길|Eoon 4-gil|경상남도|거제시|0|380|하청면|0|법정리명칭(어온)을 이용하여 부여|9||Gyeongsangnam-do|Geoje-si|Hacheong-myeon|1|60|20220927|
+48310|4811433|00|연구6길|Yeongu 6-gil|경상남도|거제시|2|||0|법정리명칭(연구)을 이용하여 부여|9||Gyeongsangnam-do|Geoje-si||1|136|20220927|
+48310|4811433|01|연구6길|Yeongu 6-gil|경상남도|거제시|0|380|하청면|0|법정리명칭(연구)을 이용하여 부여|9||Gyeongsangnam-do|Geoje-si|Hacheong-myeon|1|136|20220927|
+48310|4811445|00|예구3길|Yegu 3-gil|경상남도|거제시|2|||0|예구라는 자연마을 이름으로 부여|9||Gyeongsangnam-do|Geoje-si||1|72|20220927|
+48310|4811445|01|예구3길|Yegu 3-gil|경상남도|거제시|0|310|일운면|0|예구라는 자연마을 이름으로 부여|9||Gyeongsangnam-do|Geoje-si|Irun-myeon|1|72|20220927|
