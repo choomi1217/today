@@ -1,0 +1,20 @@
+--
+eclipse
+
+1. emmet ( o )
+2. sts ( 이미 있음 )
+3. devStyle ( 안됨 )
+4. AnyEdit ( 이미 있음 )
+5. editBox ( o )
+6. Enhanced Class Decompiler ( o )
+7. Grep Console ( o )
+8. Quick Search for Eclipse ( o )
+9. Intellij Keymap ( o ) 
+10. MyBatipse ( 이미 있음 )
+11. Quick JUnit ( 안됨 )
+
+
+--
+notepad++
+
+1. compare
