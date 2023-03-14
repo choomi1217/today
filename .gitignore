@@ -117,5 +117,7 @@ gradle-app.setting
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
 
-Back.md
-네트워크 구성 및 NAS셋팅.md
+secret/**
+secret/Back.md
+secret/네트워크 구성 및 NAS셋팅.md
+secret/api-key.txt
